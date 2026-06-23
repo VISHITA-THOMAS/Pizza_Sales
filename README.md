@@ -82,4 +82,13 @@ The dataset was sourced from a publicly available online repository and underwen
 - Determined peak ordering periods to support operational planning.
 - Enabled flexible exploration through dynamic filtering.
 
+---
 
+## Learning Outcomes
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+- Data Storytelling using Power BI
